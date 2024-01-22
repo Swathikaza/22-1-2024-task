@@ -1,0 +1,11 @@
+#d1{
+    width:50px;
+    height: 40px;
+    background-color: azure;
+    border: 5px double red;
+}
+#input{
+    font-size: 40px;
+    background-color: gray;
+    border: 5px double green;
+}
